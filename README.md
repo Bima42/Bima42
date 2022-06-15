@@ -1,7 +1,7 @@
 ### Hi there, i'm Bima !
 
 - 🎓 Currently studying on C and C++ at 42 Scool (Lausanne)
-- 💻 Working on this [project](https://github.com/Bima42/cpp_modules)
+- 💻 Working on this [project](https://github.com/Bima42/NetPractice)
 - 🤝 Find my Linkedin [profile](https://www.linkedin.com/in/tanguy-pauvret/)
 - 📧 Contact me at : tanpau42@gmail.com
 
