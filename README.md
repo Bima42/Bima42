@@ -1,4 +1,4 @@
-### Hi there, i'm Bima !
+### Hi there, I'm Bima !
 
 - 🎓 Currently studying on C and C++ at 42 Scool Lausanne (ID : tpauvret)
 - 💻 Working on this [project](https://github.com/Bima42/NetPractice)
