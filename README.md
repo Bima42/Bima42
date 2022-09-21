@@ -1,7 +1,7 @@
 ### Hi there, I'm Bima !
 
 - 🎓 Currently studying on C and C++ at 42 Scool Lausanne
-- 💻 Working on [ft_container project](https://github.com/Bima42/ft_containers)
+- 💻 Working on [webserv project](https://github.com/tyrossel/webserv)
 - 🤝 Find my [Linkedin profile](https://www.linkedin.com/in/tanguy-pauvret/)
 - 📧 Contact me at : tanpau42@gmail.com
 
