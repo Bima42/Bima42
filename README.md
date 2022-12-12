@@ -1,7 +1,7 @@
 ### Hi there, I'm Bima !
 
 - 🎓 Currently studying on C and C++ at 42 Scool Lausanne
-- 💻 Working on [webserv project](https://github.com/Bima42/webserv)
+- 💻 Working on [transcendence project](https://github.com/Bima42/ft_transcendence)
 - 🤝 Find my [Linkedin profile](https://www.linkedin.com/in/tanguy-pauvret/)
 - 📧 Contact me at : tanpau42@gmail.com
 - 💼 Find my [portfolio](http://bima.work)
