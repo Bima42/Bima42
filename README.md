@@ -1,6 +1,6 @@
 ### Hi there, I'm Bima !
 
-- 🎓 Currently studying on C and C++ at 42 Scool Lausanne
+- 🎓 Currently studying C/C++ at 42 Scool Lausanne
 - 💻 Working on [transcendence project](https://github.com/Bima42/ft_transcendence)
 - 🤝 Find my [Linkedin profile](https://www.linkedin.com/in/tanguy-pauvret/)
 - 📧 Contact me at : tanpau42@gmail.com
