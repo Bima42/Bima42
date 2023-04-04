@@ -1,6 +1,7 @@
 ### Hi there, I'm Bima !
 
 - 🎓 Currently studying C/C++ at 42 Scool Lausanne
+- 🌱 Also working with React and Django at Resilio
 - 💻 Working on [transcendence project](https://github.com/Bima42/ft_transcendence)
 - 🤝 Find my [Linkedin profile](https://www.linkedin.com/in/tanguy-pauvret/)
 - 📧 Contact me at : tanpau42@gmail.com
