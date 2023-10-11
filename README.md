@@ -1,6 +1,6 @@
 ### Hi there, I'm Bima !
 
-- 🎓 Currently studying many things such as Python, Rust or Cybersecurity at 42 Scool Lausanne
+- 🎓 Currently studying many things such as Python and Flutter at 42 Scool Lausanne
 - 💻 Working on [mobile piscine](https://github.com/Bima42/flutter_piscine)
 - 🌱 Also working with React and Django at Resilio
 - 🤝 Find my [Linkedin profile](https://www.linkedin.com/in/tanguy-pauvret/)
