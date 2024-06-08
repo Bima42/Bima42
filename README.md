@@ -12,19 +12,21 @@ Not so fast! I'll leave you with a brief summary of my current situation before 
 
 <hr/>
 
-![skills](./resources/skills.gif)
+<div style="text-align: center;">
+  <img src="./resources/skills.gif" alt="skills" style="width: 100%;" />
+</div>
 
 <hr/>
 
 ## Where I Come From
 It has been a wild ride. With a background in Neurosciences, I took a sharp turn into tech thanks to [42 Lausanne School](https://42lausanne.ch/#temoignages), driven by an insatiable curiosity and a knack for problem-solving.
 
-<div style="display: flex; align-items: center;">
+<div style="display: flex; width: 100%; align-items: center; justify-content: center; flex-wrap: wrap">
   <a href="https://42lausanne.ch/#temoignages" target="_blank">
-    <img src="./resources/42_illustration.jpg" alt="42 Lausanne" style="height: 150px; width: auto;" />
+    <img src="./resources/42_illustration.jpg" alt="42 Lausanne" style="height: 400px; width: auto;" />
   </a>
   <a href="https://github.com/Bima42/42-projects-overview" target="_blank">
-    <img src="./resources/organization_chart.png" alt="42-projects-overview" style="height: 150px; width: auto;" />
+    <img src="./resources/organization_chart.png" alt="42-projects-overview" style="height: 400px; width: auto;" />
   </a>
 </div>
 
