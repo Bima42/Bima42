@@ -12,23 +12,25 @@ Not so fast! I'll leave you with a brief summary of my current situation before 
 
 <hr/>
 
-<div style="text-align: center;">
-  <img src="./resources/skills.gif" alt="skills" style="width: 100%;" />
-</div>
+<img src="./resources/skills.gif" alt="skills" style="width: 100%;" />
 
 <hr/>
 
 ## Where I Come From
 It has been a wild ride. With a background in Neurosciences, I took a sharp turn into tech thanks to [42 Lausanne School](https://42lausanne.ch/#temoignages), driven by an insatiable curiosity and a knack for problem-solving.
 
-<div style="display: flex; width: 100%; align-items: center; justify-content: center; flex-wrap: wrap">
-  <a href="https://42lausanne.ch/#temoignages" target="_blank">
-    <img src="./resources/42_illustration.jpg" alt="42 Lausanne" style="height: 400px; width: auto;" />
-  </a>
-  <a href="https://github.com/Bima42/42-projects-overview" target="_blank">
-    <img src="./resources/organization_chart.png" alt="42-projects-overview" style="height: 400px; width: auto;" />
-  </a>
-</div>
+<p align="center">
+  <table style="width: 75%; margin-left: auto; margin-right: auto;">
+    <tr>
+      <td style="text-align: center;" align="center"margin-left: auto; margin-right: auto; border-collapse: auto;>
+        <a href="https://42lausanne.ch/#temoignages" target="_blank"><img src="./resources/42_illustration.jpg" alt="42_illustration" width="100%"></a>
+      </td>
+      <td style="text-align: center;" align="center"margin-left: auto; margin-right: auto; border-collapse: auto;>
+        <a href="https://github.com/Bima42/42-projects-overview" target="_blank"><img src="./resources/organization_chart.png" alt="Organization_chart" width="100%"></a>
+      </td>
+    </tr>
+  </table>
+</p>
 
 
 The school is like Hogwarts for developers—minus the magic wands, but with a lot more coding. Here's how this unique environment helped me evolve:
@@ -39,12 +41,13 @@ The school is like Hogwarts for developers—minus the magic wands, but with a l
 * It encouraged out-of-the-box thinking, turning challenges into opportunities for innovation.
 * The hands-on, project-based approach gave me practical skills directly applicable to the startup ecosystem.
 
-## My Projects
-### Open source projects
+<br/>
+
+## Open source projects
 - [42 Projects](https://github.com/Bima42/42-projects-overview)
 - [Maze generator](https://github.com/Bima42/cub3d_map_generator) for [42 Cub3D project](https://github.com/Bima42/cub3d)
 
-### Closed source projects
+## Closed source projects
 - [ResilioTech](https://resilio-solutions.com) and [ResilioDatabase](https://db.resilio.tech)
 - [Tidaka](https://www.tidaka.app)
 - And some more...
