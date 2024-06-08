@@ -19,18 +19,16 @@ Not so fast! I'll leave you with a brief summary of my current situation before 
 ## Where I Come From
 It has been a wild ride. With a background in Neurosciences, I took a sharp turn into tech thanks to [42 Lausanne School](https://42lausanne.ch/#temoignages), driven by an insatiable curiosity and a knack for problem-solving.
 
-<p align="center">
-  <table style="width: 75%; margin-left: auto; margin-right: auto;">
-    <tr>
-      <td style="text-align: center;" align="center"margin-left: auto; margin-right: auto; border-collapse: auto;>
-        <a href="https://42lausanne.ch/#temoignages" target="_blank"><img src="./resources/42_illustration.jpg" alt="42_illustration" width="100%"></a>
-      </td>
-      <td style="text-align: center;" align="center"margin-left: auto; margin-right: auto; border-collapse: auto;>
-        <a href="https://github.com/Bima42/42-projects-overview" target="_blank"><img src="./resources/organization_chart.png" alt="Organization_chart" width="100%"></a>
-      </td>
-    </tr>
-  </table>
-</p>
+<table style="width: 75%; margin-left: auto; margin-right: auto;">
+  <tr>
+    <td style="text-align: center; align: center; margin-left: auto; margin-right: auto; border-collapse: collapse;">
+      <a href="https://42lausanne.ch/#temoignages" target="_blank"><img src="./resources/42_illustration.jpg" alt="42_illustration" style="width:100%"></a>
+    </td>
+    <td style="text-align: center; align: center; margin-left: auto; margin-right: auto; border-collapse: collapse;">
+      <a href="https://github.com/Bima42/42-projects-overview" target="_blank"><img src="./resources/organization_chart.png" alt="Organization_chart" style="width:100%"></a>
+    </td>
+  </tr>
+</table>
 
 
 The school is like Hogwarts for developers—minus the magic wands, but with a lot more coding. Here's how this unique environment helped me evolve:
