@@ -12,9 +12,7 @@ Not so fast! I'll leave you with a brief summary of my current situation before 
 
 <hr/>
 
-<p style="display: flex; justify-content: center">
-    <img src="./resources/skills.gif" alt="skills" width="80%">
-</p>
+<img src="./resources/skills.gif" alt="skills" width="100%">
 
 <hr/>
 
