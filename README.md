@@ -12,6 +12,12 @@ Not so fast! I'll leave you with a brief summary of my current situation before 
 
 <hr/>
 
+<p style="display: flex; justify-content: center">
+    <img src="./resources/skills.gif" alt="skills" width="80%">
+</p>
+
+<hr/>
+
 ## Where I Come From
 It has been a wild ride. With a background in Neurosciences, I took a sharp turn into tech thanks to [42 Lausanne School](https://42lausanne.ch/#temoignages), driven by an insatiable curiosity and a knack for problem-solving.
 
