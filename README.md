@@ -22,7 +22,7 @@ It has been a wild ride. With a background in Neurosciences, I took a sharp turn
 <table style="width: 75%; margin-left: auto; margin-right: auto;">
   <tr>
     <td>
-      <a href="https://42lausanne.ch/#temoignages" target="_blank"><img src="./resources/42_logo.svg" alt="42_illustration" width="800"></a>
+      <a href="https://42lausanne.ch/#temoignages" target="_blank"><img src="./resources/42_logo.svg" alt="42_illustration" width="1000"></a>
     </td>
     <td>
       <a href="https://github.com/Bima42/42-projects-overview" target="_blank"><img src="./resources/organization_chart.png" alt="Organization_chart" style="width:100%"></a>
