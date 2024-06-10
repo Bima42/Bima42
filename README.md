@@ -21,10 +21,10 @@ It has been a wild ride. With a background in Neurosciences, I took a sharp turn
 
 <table style="width: 75%; margin-left: auto; margin-right: auto;">
   <tr>
-    <td style="width: 50%; text-align: center; align: center; margin-left: auto; margin-right: auto; background-color: lightgray;">
-      <a href="https://42lausanne.ch/#temoignages" target="_blank"><img src="./resources/42_logo.svg" alt="42_illustration" style="width:100%"></a>
+    <td>
+      <a href="https://42lausanne.ch/#temoignages" target="_blank"><img src="./resources/42_logo.svg" alt="42_illustration" width="800"></a>
     </td>
-    <td style="text-align: center; align: center; margin-left: auto; margin-right: auto; border-collapse: collapse;">
+    <td>
       <a href="https://github.com/Bima42/42-projects-overview" target="_blank"><img src="./resources/organization_chart.png" alt="Organization_chart" style="width:100%"></a>
     </td>
   </tr>
