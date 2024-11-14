@@ -42,7 +42,7 @@ The school is like Hogwarts for developers—minus the magic wands, but with a l
 ---
 ## Side Project Farm 🧑‍🌾
 
-<a href="https://prompt-pilot.app" target="_blank"><img src="./resources/prompt-pilot-logo-black.svg" alt="prompt-pilot-login"></a>
+<a href="https://prompt-pilot.app" target="_blank"><img src="./resources/prompt-pilot-logo-black.svg" alt="prompt-pilot-login" /></a>
 
 ---
 
