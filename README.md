@@ -17,6 +17,12 @@ Not so fast! I'll leave you with a brief summary of my current situation before 
 
 <hr/>
 
+## Side Project Farm 🧑‍🌾
+
+<a href="https://prompt-pilot.app" target="_blank"><img src="./resources/prompt-pilot-logo-black.svg" alt="prompt-pilot-login" /></a>
+
+<hr/>
+
 ## Where I Come From
 It has been a wild ride. With a background in Neurosciences, I took a sharp turn into tech thanks to [42 Lausanne School](https://42lausanne.ch/#temoignages), driven by an insatiable curiosity and a knack for problem-solving.
 
@@ -39,18 +45,6 @@ The school is like Hogwarts for developers—minus the magic wands, but with a l
 
 <br/>
 
----
-## Side Project Farm 🧑‍🌾
-
-<a href="https://prompt-pilot.app" target="_blank"><img src="./resources/prompt-pilot-logo-black.svg" alt="prompt-pilot-login" /></a>
-
----
-
 ## Open source projects
 - #### [42 Projects](https://github.com/Bima42/42-projects-overview)
 - #### [Maze generator](https://github.com/Bima42/cub3d_map_generator) for [42 Cub3D project](https://github.com/Bima42/cub3d)
-
-## Closed source projects
-- #### [ResilioTech](https://resilio-solutions.com) and [ResilioDatabase](https://db.resilio.tech)
-- #### [Tidaka](https://www.tidaka.app)
-- And some more...
