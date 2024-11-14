@@ -7,6 +7,7 @@ Not so fast! I'll leave you with a brief summary of my current situation before 
 
 * 🎓 I'm still connected to the amazing [42 Lausanne School](https://42lausanne.ch/#temoignages) where learning never stops.
 * 💻 Currently rocking React/Python at [Resilio](https://resilio-solutions.com).
+* 🧑‍🌾 Farming side project with [Widium](https://github.com/widium).
 * 🔗 You can find my professional journey and connect with me on [Linkedin](https://www.linkedin.com/in/tanguy-pauvret/)
 * 📧 Drop me a line at <a href="mailto:pauvret.tanguy@gmail.com">pauvret.tanguy@gmail.com</a>   — I'm always up for a chat about tech, startups, or any other fascinating subject!
 
@@ -37,6 +38,13 @@ The school is like Hogwarts for developers—minus the magic wands, but with a l
 * Working with a community of motivated peers taught me the value of teamwork and how to collaborate effectively, even remotely and under tight deadlines.
 
 <br/>
+
+---
+## Side Project Farm 🧑‍🌾
+
+<a href="https://prompt-pilot.app" target="_blank"><img src="./resources/prompt-pilot-logo-black.svg" alt="prompt-pilot-login"></a>
+
+---
 
 ## Open source projects
 - #### [42 Projects](https://github.com/Bima42/42-projects-overview)
