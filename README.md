@@ -1,7 +1,7 @@
 # Greetings, fellow tech enthusiasts, I’m Bima, or Tanguy!
 
 I'm always looking for new ways to learn, collaborate, and create. 
-Let's explore my work together and see what we can build together!
+Let's explore my work and see what we can build together!
 
 Not so fast! I'll leave you with a brief summary of my current situation before going into more detail.
 
@@ -17,7 +17,7 @@ Not so fast! I'll leave you with a brief summary of my current situation before 
 
 <hr/>
 
-## Side Project Farm 🧑‍🌾
+## Side Projects Farm 🧑‍🌾
 
 <a href="https://prompt-pilot.app" target="_blank"><img src="./resources/prompt-pilot-logo-black.svg" alt="prompt-pilot-login" /></a>
 
