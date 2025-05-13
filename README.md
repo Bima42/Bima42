@@ -6,8 +6,8 @@ Let's explore my work and see what we can build together!
 Not so fast! I'll leave you with a brief summary of my current situation before going into more detail.
 
 * 🎓 I'm still connected to the amazing [42 Lausanne School](https://42lausanne.ch/#temoignages) where learning never stops.
-* 💻 Currently rocking React/Python at [Resilio](https://resilio-solutions.com).
-* 🧑‍🌾 Farming side projects with [Widium](https://github.com/widium).
+* 🪶 Writing [Voltaire AI](https://voltaire.chat/) with [Widium](https://github.com/widium).
+* 💻 Currently improving my React/Python at [Resilio](https://resilio-solutions.com).
 * 🔗 You can find my professional journey and connect with me on [Linkedin](https://www.linkedin.com/in/tanguy-pauvret/)
 * 📧 Drop me a line at <a href="mailto:pauvret.tanguy@gmail.com">pauvret.tanguy@gmail.com</a>   — I'm always up for a chat about tech, startups, or any other fascinating subject!
 
