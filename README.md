@@ -1,15 +1,15 @@
-# Greetings, fellow tech enthusiasts, I’m Bima, or Tanguy!
+# Hi there! I'm Bima, or Tanguy 👋
 
 I'm always looking for new ways to learn, collaborate, and create. 
 Let's explore my work and see what we can build together!
 
-Not so fast! I'll leave you with a brief summary of my current situation before going into more detail.
+Wait, not so fast! I'll leave you with a brief summary of my current situation before going into more detail.
 
 * 🎓 I'm still connected to the amazing [42 Lausanne School](https://42lausanne.ch/#temoignages) where learning never stops.
-* 🪶 Writing [Voltaire AI](https://voltaire.chat/) with [Widium](https://github.com/widium).
+* 🪶 Writing [Voltaire AI](https://voltaire.chat/) and open source projects with [Widium](https://github.com/widium) and [Yvanoff](https://github.com/YvanoffP)
 * 💻 Currently improving my React/Python at [Resilio](https://resilio-solutions.com).
 * 🔗 You can find my professional journey and connect with me on [Linkedin](https://www.linkedin.com/in/tanguy-pauvret/)
-* 📧 Drop me a line at <a href="mailto:pauvret.tanguy@gmail.com">pauvret.tanguy@gmail.com</a>  I'm always up for a chat about tech, startups, or any other fascinating subject!
+* 📧 Drop me a line at <a href="mailto:contact@tanguypauvret.me">contact@tanguypauvret.me</a>  I'm always up for a chat about tech, startups, or any other fascinating subject!
 
 <hr/>
 
@@ -22,13 +22,20 @@ Not so fast! I'll leave you with a brief summary of my current situation before 
 <table style="width: 100%; border-collapse: collapse; border-color: transparent">
   <tr>
     <td style="width: 50%; padding: 10px; text-align: center;">
-      <a href="https://prompt-pilot.app" target="_blank">
-        <img src="./resources/prompt-pilot.svg" alt="prompt-pilot-logo" style="width: 100%; max-width: 300px; height: 150px; object-fit: contain;" />
+      <a href="https://boilerplate.tanguypauvret.me" target="_blank">
+        <img src="./resources/saas-boilerplate-logo.svg" alt="boilerplate-logo" style="width: 100%; max-width: 300px; height: 150px; object-fit: contain;" />
       </a>
     </td>
     <td style="width: 50%; padding: 10px; text-align: center;">
       <a href="https://voltaire.chat/" target="_blank">
         <img src="./resources/voltaire.svg" alt="voltaire-logo" style="width: 100%; max-width: 300px; height: 150px; object-fit: contain;" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td style="width: 50%; padding: 10px; text-align: center;">
+      <a href="https://prompt-pilot.app" target="_blank">
+        <img src="./resources/prompt-pilot.svg" alt="prompt-pilot-logo" style="width: 100%; max-width: 300px; height: 150px; object-fit: contain;" />
       </a>
     </td>
   </tr>
@@ -59,5 +66,7 @@ The school is like Hogwarts for developers—minus the magic wands, but with a l
 <br/>
 
 ## Open source projects
+- #### [SaaS Boilerplate](https://github.com/Bima42/saas-boilerplate)
+- #### [MCP Mem](https://github.com/Bima42/mcp-mem)
 - #### [42 Projects](https://github.com/Bima42/42-projects-overview)
 - #### [Maze generator](https://github.com/Bima42/cub3d_map_generator) for [42 Cub3D project](https://github.com/Bima42/cub3d)
