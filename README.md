@@ -67,6 +67,7 @@ The school is like Hogwarts for developers—minus the magic wands, but with a l
 
 ## Open source projects
 - #### [SaaS Boilerplate](https://github.com/Bima42/saas-boilerplate)
-- #### [MCP Mem](https://github.com/Bima42/mcp-mem)
+- #### [MCP Mem - Singapor Cursor Hackathon - Smithery Prize](https://github.com/Bima42/mcp-mem)
+- #### [Healthspector - Hamburg Cursor Hackathon](https://github.com/Bima42/healthspector)
 - #### [42 Projects](https://github.com/Bima42/42-projects-overview)
 - #### [Maze generator](https://github.com/Bima42/cub3d_map_generator) for [42 Cub3D project](https://github.com/Bima42/cub3d)
