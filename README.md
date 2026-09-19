@@ -7,7 +7,7 @@ Wait, not so fast! I'll leave you with a brief summary of my current situation b
 
 - 🎓 I'm still connected to the amazing [42 Lausanne School](https://42lausanne.ch/#temoignages) where learning never stops.
 - 🪶 Writing [Voltaire AI](https://voltaire.chat/) and open source projects with [Widium](https://github.com/widium) and [Yvanoff](https://github.com/YvanoffP)
-- 💻 Currently working with [Labster](https://www.labster.io/) to develop cutting-edge AI software
+- 💻 Building AI-powered software and automating design workflows at [Labster](https://www.labster.io/).
 - 🔗 You can find my professional journey and connect with me on [Linkedin](https://www.linkedin.com/in/tanguy-pauvret/)
 - 📧 Drop me a line at <a href="mailto:contact@tanguypauvret.me">contact@tanguypauvret.me</a> I'm always up for a chat about tech, startups, or any other fascinating subject!
 
