@@ -21,18 +21,23 @@ Wait, not so fast! I'll leave you with a brief summary of my current situation b
 
 <table style="width: 100%; border-collapse: collapse; border-color: transparent">
   <tr>
+  <td style="width: 50%; padding: 10px; text-align: center;">
+    <a href="https://github.com/Birium/gamemods" target="_blank">
+      <img src="./resources/gamemods-logo.png" alt="gamemods-logo" style="width: 100%; max-width: 300px; height: 150px; object-fit: contain;" />
+    </a>
+  </td>
     <td style="width: 50%; padding: 10px; text-align: center;">
       <a href="https://boilerplate.tanguypauvret.me" target="_blank">
         <img src="./resources/saas-boilerplate-logo.svg" alt="boilerplate-logo" style="width: 100%; max-width: 300px; height: 150px; object-fit: contain;" />
       </a>
     </td>
-    <td style="width: 50%; padding: 10px; text-align: center;">
-      <a href="https://voltaire.chat/" target="_blank">
-        <img src="./resources/voltaire.svg" alt="voltaire-logo" style="width: 100%; max-width: 300px; height: 150px; object-fit: contain;" />
-      </a>
-    </td>
   </tr>
   <tr>
+      <td style="width: 50%; padding: 10px; text-align: center;">
+        <a href="https://voltaire.chat/" target="_blank">
+          <img src="./resources/voltaire.svg" alt="voltaire-logo" style="width: 100%; max-width: 300px; height: 150px; object-fit: contain;" />
+        </a>
+      </td>
     <td style="width: 50%; padding: 10px; text-align: center;">
       <a href="https://prompt-pilot.app" target="_blank">
         <img src="./resources/prompt-pilot.svg" alt="prompt-pilot-logo" style="width: 100%; max-width: 300px; height: 150px; object-fit: contain;" />
