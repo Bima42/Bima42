@@ -60,7 +60,7 @@ Bidium is the agency I'm building with two friends. Off-the-shelf tools are made
 
 And the seeds still growing:
 
-- #### [Gallery](https://github.com/Bidium-org/gallery): an infinite canvas to generate images with OpenRouter models, that an AI agent like Claude Code can drive too
+- #### [Gallery](https://github.com/Bidium-org/gallery): an infinite canvas for image generation. Plug in any model, and let any AI agent work on it
 - #### [Knower](https://github.com/Bidium-org/knower): a local, portable memory layer every AI agent can share. Mistral Online Hackathon
 - #### [MCP Mem](https://github.com/Bima42/mcp-mem): memory layer for LLMs, built on Neo4j. Singapore Cursor Hackathon, Smithery Prize
 - #### [jstream-py](https://github.com/Bima42/jstream-py): turn a raw LLM token stream into validated JSON objects as fields complete
