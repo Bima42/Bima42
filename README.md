@@ -9,8 +9,8 @@ Wait, not so fast! I'll leave you with a brief summary of my current situation b
 - 🐙 Co-founder of [Bidium](https://bidium.pro) with [Widium](https://github.com/widium) and [Yvanoff](https://github.com/YvanoffP): we integrate specialized AI into businesses, to solve the problems that cost them every month.
 - 🧭 Always leveling up, toward bigger scope: system design, technical direction, and helping the people around me ship better.
 - 🎓 Still connected to the amazing [42 Lausanne School](https://42lausanne.ch/#temoignages) where learning never stops.
-- 🔗 You can find my professional journey and connect with me on [Linkedin](https://www.linkedin.com/in/tanguy-pauvret/)
-- 📧 Drop me a line at <a href="mailto:contact@tanguypauvret.me">contact@tanguypauvret.me</a> I'm always up for a chat about tech, startups, or any other fascinating subject!
+
+Always up for a chat about tech, startups, or any other fascinating subject, so feel free to add me on [LinkedIn](https://www.linkedin.com/in/tanguy-pauvret/)
 
 <hr/>
 
