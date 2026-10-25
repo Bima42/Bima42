@@ -1,19 +1,31 @@
 # Hi there! I'm Bima, or Tanguy 👋
 
-I'm always looking for new ways to learn, collaborate, and create.
-Let's explore my work and see what we can build together!
+Software engineer, leaning hard into **AI engineering** and **backend systems**.
+I like building systems that last: LLM-powered products that hold up in production, on an architecture made to iterate.
 
 Wait, not so fast! I'll leave you with a brief summary of my current situation before going into more detail.
 
-- 🎓 I'm still connected to the amazing [42 Lausanne School](https://42lausanne.ch/#temoignages) where learning never stops.
-- 🪶 Writing [Voltaire AI](https://voltaire.chat/) and open source projects with [Widium](https://github.com/widium) and [Yvanoff](https://github.com/YvanoffP)
-- 💻 Building AI-powered software and automating design workflows at [Labster](https://www.labster.io/).
+- 💻 Senior Software Engineer at [Le Labster](https://www.labster.io/), designing custom AI solutions built into our clients' workflows. Lately: using AI to speed up and raise the quality of design production.
+- 🐙 Co-founder of [Bidium](https://bidium.pro) with [Widium](https://github.com/widium) and [Yvanoff](https://github.com/YvanoffP): we integrate specialized AI into businesses, to solve the problems that cost them every month.
+- 🧭 Always leveling up, toward bigger scope: system design, technical direction, and helping the people around me ship better.
+- 🎓 Still connected to the amazing [42 Lausanne School](https://42lausanne.ch/#temoignages) where learning never stops.
 - 🔗 You can find my professional journey and connect with me on [Linkedin](https://www.linkedin.com/in/tanguy-pauvret/)
 - 📧 Drop me a line at <a href="mailto:contact@tanguypauvret.me">contact@tanguypauvret.me</a> I'm always up for a chat about tech, startups, or any other fascinating subject!
 
 <hr/>
 
-<!--<img src="./resources/skills.gif" alt="skills" width="100%">-->
+## Bidium
+
+<p align="center">
+  <a href="https://bidium.pro" target="_blank">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="./resources/bidium-logo-white.svg">
+      <img src="./resources/bidium-logo-black.svg" alt="Bidium" width="360">
+    </picture>
+  </a>
+</p>
+
+Bidium is the agency I'm building with two friends. Off-the-shelf tools are made for the average business; we work on the problems they leave unsolved, with specialized AI integrated into the business. See what we do on [bidium.pro](https://bidium.pro).
 
 <hr/>
 
@@ -48,9 +60,28 @@ Wait, not so fast! I'll leave you with a brief summary of my current situation b
 
 <hr/>
 
+## Hackathons & Experiments 🧪
+
+- #### [Knower](https://github.com/Bidium-org/knower): a local, portable memory layer every AI agent can share. Mistral Online Hackathon
+- #### [MCP Mem](https://github.com/Bima42/mcp-mem): memory layer for LLMs, built on Neo4j. Singapore Cursor Hackathon, Smithery Prize
+- #### [jstream-py](https://github.com/Bima42/jstream-py): turn a raw LLM token stream into validated JSON objects as fields complete
+- #### [Docstral](https://github.com/Bima42/docstral): chat with Mistral models, with retrieval over Mistral's public docs
+- #### [Healthspector](https://github.com/Bima42/healthspector): AI-powered pain mapping on a 3D body model. Hamburg Cursor Hackathon
+- #### [SaaS Boilerplate](https://github.com/Bima42/saas-boilerplate): Drizzle, tRPC, BetterAuth, Shadcn and PlateJS, ready to ship
+- #### [42 Projects](https://github.com/Bima42/42-projects-overview) and a [maze generator](https://github.com/Bima42/cub3d_map_generator) for the [42 Cub3D project](https://github.com/Bima42/cub3d)
+
+<hr/>
+
+## Writing
+
+- ✍️ [My blog](https://tanguypauvret.me/en/blog): technical write-ups, the architecture choices I make, good and bad.
+- 🐙 [Bidium's blog](https://bidium.pro/en/blog): what AI changes for a business, told for the people who run it.
+
+<hr/>
+
 ## Where I Come From
 
-It has been a wild ride. With a background in Neurosciences, I took a sharp turn into tech thanks to [42 Lausanne School](https://42lausanne.ch/#temoignages), driven by an insatiable curiosity and a knack for problem-solving.
+It has been a wild ride. A Bachelor in Neurosciences, four years in professional kitchens, then a sharp turn into tech thanks to [42 Lausanne School](https://42lausanne.ch/#temoignages), driven by an insatiable curiosity and a knack for problem-solving.
 
 <table style="width: 75%; margin-left: auto; margin-right: auto;">
   <tr>
@@ -66,15 +97,7 @@ It has been a wild ride. With a background in Neurosciences, I took a sharp turn
 The school is like Hogwarts for developers—minus the magic wands, but with a lot more coding. Here's how this unique environment helped me evolve:
 
 - At 42, I didn't just learn to code; I learned to think like an innovator and quickly find a solution to a problem.
-- The diverse projects helped me discover my passion for full-stack development and the thrill of startup life.
+- The diverse projects helped me discover my passion for building products end to end, and the thrill of startup life.
 - Working with a community of motivated peers taught me the value of teamwork and how to collaborate effectively, even remotely and under tight deadlines.
 
-<br/>
-
-## Open source projects
-
-- #### [SaaS Boilerplate](https://github.com/Bima42/saas-boilerplate)
-- #### [MCP Mem - Singapor Cursor Hackathon - Smithery Prize](https://github.com/Bima42/mcp-mem)
-- #### [Healthspector - Hamburg Cursor Hackathon](https://github.com/Bima42/healthspector)
-- #### [42 Projects](https://github.com/Bima42/42-projects-overview)
-- #### [Maze generator](https://github.com/Bima42/cub3d_map_generator) for [42 Cub3D project](https://github.com/Bima42/cub3d)
+Then came Resilio, from intern to technical lead on ResilioTech: architecture overhaul, migration plans, an analytics stack, onboarding new developers and strict peer review. That's where I learned to make architecture decisions under real pressure, and that's the path I keep following.
