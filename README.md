@@ -58,16 +58,13 @@ Bidium is the agency I'm building with two friends. Off-the-shelf tools are made
   </tr>
 </table>
 
-<hr/>
+And the seeds still growing:
 
-## Hackathons & Experiments 🧪
-
+- #### [Gallery](https://github.com/Bidium-org/gallery): an infinite canvas to generate images with OpenRouter models, that an AI agent like Claude Code can drive too
 - #### [Knower](https://github.com/Bidium-org/knower): a local, portable memory layer every AI agent can share. Mistral Online Hackathon
 - #### [MCP Mem](https://github.com/Bima42/mcp-mem): memory layer for LLMs, built on Neo4j. Singapore Cursor Hackathon, Smithery Prize
 - #### [jstream-py](https://github.com/Bima42/jstream-py): turn a raw LLM token stream into validated JSON objects as fields complete
-- #### [Docstral](https://github.com/Bima42/docstral): chat with Mistral models, with retrieval over Mistral's public docs
 - #### [Healthspector](https://github.com/Bima42/healthspector): AI-powered pain mapping on a 3D body model. Hamburg Cursor Hackathon
-- #### [SaaS Boilerplate](https://github.com/Bima42/saas-boilerplate): Drizzle, tRPC, BetterAuth, Shadcn and PlateJS, ready to ship
 - #### [42 Projects](https://github.com/Bima42/42-projects-overview) and a [maze generator](https://github.com/Bima42/cub3d_map_generator) for the [42 Cub3D project](https://github.com/Bima42/cub3d)
 
 <hr/>
