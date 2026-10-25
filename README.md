@@ -25,7 +25,7 @@ Always up for a chat about tech, startups, or any other fascinating subject, so 
   </a>
 </p>
 
-Bidium is the agency I'm building with two friends. Off-the-shelf tools are made for the average business; we work on the problems they leave unsolved, with specialized AI integrated into the business. See what we do on [bidium.pro](https://bidium.pro).
+Bidium is the agency I'm building with two friends. Off-the-shelf tools are made for the average business; we work on the problems they leave unsolved, with specialized AI integrated into the business. See what we do on [our website!](https://bidium.pro).
 
 <hr/>
 
