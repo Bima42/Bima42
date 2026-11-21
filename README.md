@@ -1,14 +1,13 @@
 # Hi there! I'm Bima, or Tanguy 👋
 
-Software engineer, leaning hard into **AI engineering** and **backend systems**.
+Senior software engineer, leaning hard into **AI engineering** and **backend systems**.
 I like building systems that last: LLM-powered products that hold up in production, on an architecture made to iterate.
 
-Wait, not so fast! I'll leave you with a brief summary of my current situation before going into more detail.
+Here is a brief summary of my current situation:
 
-- 💻 Senior Software Engineer at [Le Labster](https://www.labster.io/), designing custom AI solutions built into our clients' workflows. Lately: using AI to speed up and raise the quality of design production.
+- Working at [Le Labster](https://www.labster.io/), designing custom AI solutions built into our clients' workflows. Lately: using AI to speed up and raise the quality of design production.
 - 🐙 Co-founder of [Bidium](https://bidium.pro) with [Widium](https://github.com/widium) and [Yvanoff](https://github.com/YvanoffP): we integrate specialized AI into businesses, to solve the problems that cost them every month.
-- 🧭 Always leveling up, toward bigger scope: system design, technical direction, and helping the people around me ship better.
-- 🎓 Still connected to the amazing [42 Lausanne School](https://42lausanne.ch/#temoignages) where learning never stops.
+- Still leveling up, toward bigger scope: system design, technical direction, and helping the people around me ship better.
 
 Always up for a chat about tech, startups, or any other fascinating subject, so feel free to add me on [LinkedIn](https://www.linkedin.com/in/tanguy-pauvret/)
 
@@ -96,5 +95,3 @@ The school is like Hogwarts for developers—minus the magic wands, but with a l
 - At 42, I didn't just learn to code; I learned to think like an innovator and quickly find a solution to a problem.
 - The diverse projects helped me discover my passion for building products end to end, and the thrill of startup life.
 - Working with a community of motivated peers taught me the value of teamwork and how to collaborate effectively, even remotely and under tight deadlines.
-
-Then came Resilio, from intern to technical lead on ResilioTech: architecture overhaul, migration plans, an analytics stack, onboarding new developers and strict peer review. That's where I learned to make architecture decisions under real pressure, and that's the path I keep following.
