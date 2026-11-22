@@ -1,19 +1,19 @@
 # Hi there! I'm Bima, or Tanguy 👋
 
-Senior software engineer, leaning hard into **AI engineering** and **backend systems**.
-I like building systems that last: LLM-powered products that hold up in production, on an architecture made to iterate.
+Senior software engineer at [Le Labster](https://www.labster.io/), leaning more and more toward AI engineering and architecture.
+My mates say I'm as absurd as I am smart. I'll take it.
 
-Here is a brief summary of my current situation:
-
-- Working at [Le Labster](https://www.labster.io/), designing custom AI solutions built into our clients' workflows. Lately: using AI to speed up and raise the quality of design production.
-- 🐙 Co-founder of [Bidium](https://bidium.pro) with [Widium](https://github.com/widium) and [Yvanoff](https://github.com/YvanoffP): we integrate specialized AI into businesses, to solve the problems that cost them every month.
-- Still leveling up, toward bigger scope: system design, technical direction, and helping the people around me ship better.
-
-Always up for a chat about tech, startups, or any other fascinating subject, so feel free to add me on [LinkedIn](https://www.linkedin.com/in/tanguy-pauvret/)
+I learn a lot from working with people far more experienced than me, and just as much from people who are starting out. Both keep putting me back in my place, something 42 taught me early. And I keep passing on what I know, the way others did for me and still do.
 
 <hr/>
 
-## Bidium
+## What I do
+
+At Le Labster, I design custom AI solutions built into our clients' workflows. Lately I've been using AI to speed up design production and raise its quality.
+
+AI came into my life pretty early, thanks to [Widium](https://github.com/widium), who was already deep into machine learning back in 2022. I brought it into my workflow almost right away and never stopped. I've tried a ridiculous number of LLMs and built a lot of projects along the way, and more than anything it blew up my curiosity and my urge to build things.
+
+Working together, each of us slowly found our place. Mine turned out to be architecture, along with everything around performance and observability. That's what led to [Bidium](https://bidium.pro), the agency [Widium](https://github.com/widium), [Yvanoff](https://github.com/YvanoffP) and I started together. We bring specialized AI into businesses, for the problems that cost them every month.
 
 <p align="center">
   <a href="https://bidium.pro" target="_blank">
@@ -23,8 +23,6 @@ Always up for a chat about tech, startups, or any other fascinating subject, so 
     </picture>
   </a>
 </p>
-
-Bidium is the agency I'm building with two friends. Off-the-shelf tools are made for the average business; we work on the problems they leave unsolved, with specialized AI integrated into the business. See what we do on [our website](https://bidium.pro).
 
 <hr/>
 
@@ -77,7 +75,7 @@ And the seeds still growing:
 
 ## Where I Come From
 
-It has been a wild ride. A Bachelor in Neurosciences, four years in professional kitchens, then a sharp turn into tech thanks to [42 Lausanne School](https://42lausanne.ch/#temoignages), driven by an insatiable curiosity and a knack for problem-solving.
+A bachelor in neuroscience, four years in professional kitchens, then a sharp turn into tech at [42 Lausanne](https://42lausanne.ch/#temoignages), driven by an insatiable curiosity and a real taste for solving problems.
 
 <table style="width: 75%; margin-left: auto; margin-right: auto;">
   <tr>
@@ -90,8 +88,6 @@ It has been a wild ride. A Bachelor in Neurosciences, four years in professional
   </tr>
 </table>
 
-The school is like Hogwarts for developers—minus the magic wands, but with a lot more coding. Here's how this unique environment helped me evolve:
+<hr/>
 
-- At 42, I didn't just learn to code; I learned to think like an innovator and quickly find a solution to a problem.
-- The diverse projects helped me discover my passion for building products end to end, and the thrill of startup life.
-- Working with a community of motivated peers taught me the value of teamwork and how to collaborate effectively, even remotely and under tight deadlines.
+Always up for a chat about tech, startups, or any other fascinating subject, so feel free to add me on [LinkedIn](https://www.linkedin.com/in/tanguy-pauvret/).
